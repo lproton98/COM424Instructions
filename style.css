@@ -1,23 +1,121 @@
-.center{
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Oswald&display=swap');
+
+@media screen and (min-width: 768px) {
+
+.holmeslogo img{
+	height: 50px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 15%;
+	padding-top: 50px;
 }
 
-.safetyicon img{
+.wrapper {
+         margin-right: auto;
+         margin-left: auto;
+    }
+
+#safetyicon img{
+	height: 70px;
 	float: right;
-	padding-right: 70px;
+	padding-right: 600px;
 }
 
-.norugicon img{
+#norugicon img{
 	height: 50px;
+}
+
+#nochildrenicon img{
+	height: 60px;
+}
+
+#nooverhangicon img{
+	height: 60px;
+}
+nav{
+	font-family: 'Oswald', sans-serif;
+	background-color: white;
+    border: 1px solid;
+    border-width: 1px 0;
+    list-style: none;
+    text-align: center;
+	font-size: 50px;
+}
+}
+
+body{
+	padding-left: 20px;
+}
+
+li{
+	font-family: 'Oswald', sans-serif;
+}
+
+p{
+	font-family: 'Oswald', sans-serif;
+}
+
+h1{
+	font-family: 'Anton', san-serif;
+	letter-spacing: 2px;
+}
+
+nav{
+	font-family: 'Oswald', sans-serif;
+	background-color: white;
+    border: 1px solid;
+    border-width: 1px 0;
+    list-style: none;
+    text-align: center;
+	font-size: 20px;
+}
+
+nav li {
+     display: inline;
+}
+
+nav a {
+     display: inline-block;
+     padding: 5px;
+}
+
+.container{
+	
+}
+
+.safetyheaders{
+	color: red;
 }
 
 .holmeslogo img{
 	height: 50px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 50px;
 }
 
-.nochildrenicon img{
+.wrapper {
+         margin-right: auto;
+         margin-left: auto;
+    }
+
+#safetyicon img{
+	height: 70px;
+	float: right;
+	padding-right: 850px;
+}
+
+#norugicon img{
+	height: 50px;
+}
+
+#nochildrenicon img{
 	height: 60px;
 }
+
+#nooverhangicon img{
+	height: 60px;
+}
+
