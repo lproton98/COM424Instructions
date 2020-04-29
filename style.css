@@ -4,3 +4,20 @@
 	margin-right: auto;
 	width: 15%;
 }
+
+.safetyicon img{
+	float: right;
+	padding-right: 70px;
+}
+
+.norugicon img{
+	height: 50px;
+}
+
+.holmeslogo img{
+	height: 50px;
+}
+
+.nochildrenicon img{
+	height: 60px;
+}
