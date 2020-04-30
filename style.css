@@ -81,7 +81,6 @@ nav{
     text-align: center;
 	font-size: 20px;
 }
-}
 
 nav li {
      display: inline;
@@ -90,6 +89,7 @@ nav li {
 nav a {
      display: inline-block;
      padding: 5px;
+}
 }
 
 .container{
